@@ -1,9 +1,7 @@
 #include<stdio.h>
 int main()
 {
-    int testInteger;
-    printf("Enter an Integer:");
-    scanf("%d",&testInteger);
+    int testInteger=5;
     printf("number=%d",testInteger);
     return 0;
 }

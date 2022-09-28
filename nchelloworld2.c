@@ -1,5 +1,8 @@
 #include<stdio.h>
 int main()
 {
-    printf("hello world");
+    int a=9;
+    int b=5;
+    int c=a+b;
+    printf("the sum of two number is  %d",c);
 }
